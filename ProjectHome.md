@@ -1,0 +1,1 @@
+A Bugzilla Extension to add tooltips to custom fields
